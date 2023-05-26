@@ -1,9 +1,7 @@
 <template>
-    <div id="food">
-        <a href="http://beian.miit.gov.cn">
-            冀ICP备2023014649号
-        </a>
-    </div>
+  <div id="food">
+    <a href="http://beian.miit.gov.cn"> 冀ICP备2023014649号 </a>
+  </div>
 </template>
 
 <script setup lang="ts"></script>
